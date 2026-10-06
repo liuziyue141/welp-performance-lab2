@@ -1,0 +1,46 @@
+// Specifies the syntax version for this proto file.
+syntax = "proto3";
+
+// Sets the Go package for the generated code.
+option go_package = "./proto/detail";
+
+// Define the package name for this proto file.
+package detail;
+
+// DetailService is a service that provides APIs for managing restaurant details.
+service DetailService {
+    // PostDetail is an RPC method for adding or updating restaurant details.
+    rpc PostDetail(PostDetailRequest) returns (PostDetailResponse);
+    
+    // GetDetail is an RPC method for retrieving details of a restaurant based on its name.
+    rpc GetDetail(GetDetailRequest) returns (GetDetailResponse);
+}
+
+// PostDetailRequest is the request message for adding or updating restaurant details.
+message PostDetailRequest {
+    string restaurant_name = 1;
+    string location = 2;
+    string style = 3;
+    int32 capacity = 4;
+}
+
+// PostDetailResponse is the response message for the PostDetail RPC method.
+// It indicates whether the operation was successful.
+message PostDetailResponse {
+    bool status = 1;
+}
+
+// GetDetailRequest is the request message for getting restaurant details.
+// It contains the name of the restaurant for which details are requested.
+message GetDetailRequest {
+    string restaurant_name = 1;
+}
+
+// GetDetailResponse is the response message for the GetDetail RPC method.
+// It contains the details of the restaurant.
+message GetDetailResponse {
+    string restaurant_name = 1;
+    string location = 2;
+    string style = 3;
+    int32 capacity = 4;
+}

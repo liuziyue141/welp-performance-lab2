@@ -1,0 +1,51 @@
+"RestaurantName","Location","Style","Capacity"
+"Chick-fil-A","Houston, TX","Fast Food",100
+"Raising Cane's","Los Angeles, CA","Fast Food",80
+"Whataburger","San Antonio, TX","Fast Food",120
+"In-N-Out Burger","Phoenix, AZ","Fast Food",90
+"McDonald's","Chicago, IL","Fast Food",150
+"Panera Bread","New York City, NY","Cafe",60
+"Jason's Deli","Dallas, TX","Deli",75
+"Culver's","Denver, CO","Fast Food",85
+"Zaxby's","Atlanta, GA","Fast Food",110
+"Chipotle","Miami, FL","Mexican",70
+"El Pollo Loco","San Diego, CA","Fast Food",95
+"Bojangles'","Charlotte, NC","Fast Food",80
+"Steak 'n' Shake","Las Vegas, NV","Diner",100
+"Wendy's","Seattle, WA","Fast Food",120
+"McAlister's Deli","Boston, MA","Deli",70
+"Panda Express","San Francisco, CA","Fast Food",90
+"Taco Bell","Austin, TX","Fast Food",100
+"Jack in the Box","Portland, OR","Fast Food",80
+"Del Taco","Nashville, TN","Fast Food",85
+"White Castle","Detroit, MI","Fast Food",75
+"Popeyes","New Orleans, LA","Fast Food",110
+"Burger King","Philadelphia, PA","Fast Food",95
+"Starbucks","Washington, D.C., DC","Cafe",120
+"Five Guys","Minneapolis, MN","Fast Food",90
+"Boston Market","Orlando, FL","Fast Food",80
+"Sonic Drive-In","Houston, TX","Fast Food",100
+"Carl's Jr.","Los Angeles, CA","Fast Food",80
+"KFC","San Antonio, TX","Fast Food",120
+"Dairy Queen","Phoenix, AZ","Fast Food",90
+"Arby's","Chicago, IL","Fast Food",150
+"Wingstop","New York City, NY","Fast Food",60
+"Qdoba","Dallas, TX","Mexican",75
+"Hardee's","Denver, CO","Fast Food",85
+"Domino's","Atlanta, GA","Pizza",110
+"Tim Hortons","Miami, FL","Cafe",70
+"Moe's","San Diego, CA","Mexican",95
+"Checkers/Rally's","Charlotte, NC","Fast Food",80
+"Dunkin'","Las Vegas, NV","Cafe",100
+"Pizza Hut","Seattle, WA","Pizza",120
+"Little Caesars","Boston, MA","Pizza",70
+"Papa John's","San Francisco, CA","Pizza",90
+"Jimmy John's","Austin, TX","Sandwich",100
+"Jersey Mike's","Portland, OR","Sandwich",80
+"Marco's Pizza","Nashville, TN","Pizza",85
+"Church's Chicken","Detroit, MI","Fast Food",75
+"Firehouse Subs","New Orleans, LA","Sandwich",110
+"Papa Murphy's","Philadelphia, PA","Pizza",95
+"Auntie Anne's","Washington, D.C., DC","Snacks",120
+"Subway","Minneapolis, MN","Sandwich",90
+"Baskin-Robbins","Orlando, FL","Ice Cream",80

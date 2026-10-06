@@ -1,0 +1,9 @@
+distribution,reported_load_rps,reported_latency_ms,reported_std_ms,source_page
+const,9000,28.92,28.11,1
+const,9400,139.22,33.09,1
+const,10800,2160,448.37,1
+const,12800,13060,1971.04,1
+exp,8800,290.20,62.96,1
+exp,9400,933.57,152.88,1
+exp,10400,2612,572.691,1
+exp,12800,10632,2468.50,1
